@@ -298,7 +298,3 @@ Potential enhancements for future versions:
 1. Clone the repository
 2. Run `flutter pub get` to install dependencies
 3. Run `flutter run` to start the app
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
