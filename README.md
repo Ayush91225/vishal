@@ -1,5 +1,31 @@
 # Notes App - Project Documentation
 
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.34.27.png" width="250"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.34.33.png" width="250"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.35.08.png" width="250"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.35.20.png" width="250"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.36.04.png" width="250"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 16 Pro Max - 2025-07-18 at 14.36.07.png" width="250"/>
+</div>
+
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/notes_list.png" alt="Notes List Screen" width="250"/>
+  <img src="screenshots/note_editor.png" alt="Note Editor Screen" width="250"/>
+  <img src="screenshots/image_preview.png" alt="Image Preview Screen" width="250"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/categories.png" alt="Categories View" width="250"/>
+  <img src="screenshots/formatting.png" alt="Text Formatting" width="250"/>
+  <img src="screenshots/dark_mode.png" alt="Dark Mode UI" width="250"/>
+</div>
+
 A feature-rich Flutter notes application that allows users to create, edit, and delete notes with rich text formatting, image attachments, and categorization. Notes are stored locally on the device using SharedPreferences.
 
 ## Table of Contents
